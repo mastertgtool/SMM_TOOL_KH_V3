@@ -75,7 +75,7 @@ bash SMM.sh
 elif [[ $islem == 2 || $islem == 02 ]]; then
 clear
 echo -e "\033[3;35m 
-   ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
+    ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
    ░░█▄█ █▀▀ █▄▄ █▄█ █▀█ █▄▀ ░░ 
   Installation May Take a Long Time Wait\033[0m"
 sleep 3
@@ -88,7 +88,7 @@ bash zphisher.sh
 elif [[ $islem == 3 || $islem == 03 ]]; then
 clear
 echo -e "\033[3;35m 
-   ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
+    ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
    ░░█▄█ █▀▀ █▄▄ █▄█ █▀█ █▄▀ ░░ 
   Installation May Take a Long Time Wait\033[0m"
 sleep 3
@@ -102,7 +102,7 @@ bash camphish.sh
 elif [[ $islem == 4 || $islem == 04 ]]; then
 clear 
 echo -e "\033[3;35m 
-   ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
+    ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
    ░░█▄█ █▀▀ █▄▄ █▄█ █▀█ █▄▀ ░░ 
   Installation May Take a Long Time Wait\033[0m"
 sleep 3
@@ -116,7 +116,7 @@ bash finduser.sh
 elif [[ $islem == 5 || $islem == 05 ]]; then
 clear
 echo -e "\033[3;35m
-   ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
+    ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
    ░░█▄█ █▀▀ █▄▄ █▄█ █▀█ █▄▀ ░░ 
  Installation May Take a Long Time Wait\033[0m"
 sleep 3
@@ -132,7 +132,7 @@ python MBomb.py
 elif [[ $islem == 6 || $islem == 06 ]]; then
 clear
 echo -e "\033[3;35m 
-   ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
+    ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
    ░░█▄█ █▀▀ █▄▄ █▄█ █▀█ █▄▀ ░░ 
   Installation May Take a Long Time Wait\033[0m"
 sleep 3
@@ -154,7 +154,7 @@ elif [[ $islem == 8 ]]; then
         clear
 
 echo -e "\033[3;35m 
-   ░░█▀▄ █▀█ █░█░█ █▄░█ █░░ █▀█ ▄▀█ █▀▄ █▀ ░░ 
+    ░░█▀▄ █▀█ █░█░█ █▄░█ █░░ █▀█ ▄▀█ █▀▄ █▀ ░░ 
    ░░█▄▀ █▄█ ▀▄▀▄▀ █░▀█ █▄▄ █▄█ █▀█ █▄▀ ▄█ ░░ 
   DOWNLOADED PROGRAMS ARE BEING REMOVED...\033[0m"
 sleep 3 
@@ -166,7 +166,7 @@ bash tga.sh
 elif [[ $islem == 9|| $islem == 09 ]]; then
 clear
 echo -e "\033[3;35m
-   ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
+    ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
    ░░█▄█ █▀▀ █▄▄ █▄█ █▀█ █▄▀ ░░ 
   Installation May Take a Long Time Wait\033[0m"
 sleep 3
@@ -180,7 +180,7 @@ python bot.py
 elif [[ $islem == 10|| $islem == 10 ]]; then
 clear
 echo -e "\033[3;35m
-   ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
+    ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
    ░░█▄█ █▀▀ █▄▄ █▄█ █▀█ █▄▀ ░░ 
   Installation May Take a Long Time Wait\033[0m"
 sleep 3
@@ -192,7 +192,7 @@ bash set.sh
 elif [[ $islem == 11|| $islem == 11 ]]; then
 clear
 echo -e "\033[3;35m
-   ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
+    ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
    ░░█▄█ █▀▀ █▄▄ █▄█ █▀█ █▄▀ ░░ 
   Installation May Take a Long Time Wait\033[0m"
 sleep 3
@@ -205,7 +205,7 @@ python SPAM-SMS-V2.py
 elif [[ $islem == 12|| $islem == 12 ]]; then
 clear
 echo -e "\033[3;35m
-   ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
+    ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
    ░░█▄█ █▀▀ █▄▄ █▄█ █▀█ █▄▀ ░░ 
   Installation May Take a Long Time Wait\033[0m"
 sleep 3
@@ -218,7 +218,7 @@ python CCV-CAMERA-V1.py
 elif [[ $islem == 13|| $islem == 13 ]]; then
 clear
 echo -e "\033[3;35m  
-   ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
+    ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
    ░░█▄█ █▀▀ █▄▄ █▄█ █▀█ █▄▀ ░░ 
   Installation May Take a Long Time Wait\033[0m"
 sleep 3
@@ -231,7 +231,7 @@ python ipdrone.py -v 101.7114774
 elif [[ $islem == 14|| $islem == 14 ]]; then
 clear
 echo -e "\033[3;35m  
-   ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
+    ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
    ░░█▄█ █▀▀ █▄▄ █▄█ █▀█ █▄▀ ░░ 
   Installation May Take a Long Time Wait\033[0m"
 sleep 3
@@ -245,7 +245,7 @@ python view.py
 elif [[ $islem == 15|| $islem == 15 ]]; then
 clear
 echo -e "\033[3;35m 
-   ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
+    ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
    ░░█▄█ █▀▀ █▄▄ █▄█ █▀█ █▄▀ ░░ 
   Installation May Take a Long Time Wait\033[0m"
 sleep 3
@@ -262,7 +262,7 @@ python fbclone.py
 elif [[ $islem == 16|| $islem == 16 ]]; then
 clear
 echo -e "\033[3;35m
-   ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
+    ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
    ░░█▄█ █▀▀ █▄▄ █▄█ █▀█ █▄▀ ░░  
   Installation May Take a Long Time Wait\033[0m"
 sleep 3
@@ -274,7 +274,7 @@ python TikTok.py
 elif [[ $islem == 17|| $islem == 17 ]]; then
 clear
 echo -e "\033[3;35m  
-   ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
+    ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
    ░░█▄█ █▀▀ █▄▄ █▄█ █▀█ █▄▀ ░░ 
   Installation May Take a Long Time Wait\033[0m"
 sleep 3
@@ -286,7 +286,7 @@ python viewtik_enc.py
 elif [[ $islem == 18|| $islem == 18 ]]; then
 clear
 echo -e "\033[3;35m  
-   ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
+    ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
    ░░█▄█ █▀▀ █▄▄ █▄█ █▀█ █▄▀ ░░ 
   Installation May Take a Long Time Wait\033[0m"
 sleep 3
@@ -302,20 +302,20 @@ python3 Mail-Hack.py
 elif [[ $islem == 19|| $islem == 19 ]]; then
 clear
 echo -e "\033[3;35m 
-   ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
+    ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
    ░░█▄█ █▀▀ █▄▄ █▄█ █▀█ █▄▀ ░░ 
   Installation May Take a Long Time Wait\033[0m"
 sleep 3
-https://github.com/mastertgtool/AOTO_FB_SHARE.git
-pip install -r key.txt
-cd AOTO_FB_SHARE
+git clone https://github.com/mastertgtool/AOTO_FB_SHARE_V2.git
+pip install -r requests.txt
+cd AOTO_FB_SHARE_V2
 python AOTO_SHARE.py
 
 ## TELEGRAM VIEW POST
 elif [[ $islem == 20|| $islem == 20 ]]; then
 clear
 echo -e "\033[3;35m 
-   ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
+    ░░█░█ █▀█ █░░ █▀█ ▄▀█ █▀▄ ░░ 
    ░░█▄█ █▀▀ █▄▄ █▄█ █▀█ █▄▀ ░░ 
   Installation May Take a Long Time Wait\033[0m"
 sleep 3
